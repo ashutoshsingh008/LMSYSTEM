@@ -59,9 +59,4 @@ public class BookDAOImpl implements BookDAO {
         book.setHits(book.getHits()+1);
         sessionFactory.getCurrentSession().merge(book);
     }
-        public void updateHits1(Integer bookNo) {
-        Book book = bookService.getBookById(bookNo);
-        book.setHits(book.getHits()+1);
-        sessionFactory.getCurrentSession().merge(book);
-    }
 }

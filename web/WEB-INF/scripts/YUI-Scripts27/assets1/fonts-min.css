@@ -1,0 +1,25 @@
+/* 
+    Document   : fonts-min
+    Created on : Sep 18, 2008, 5:21:42 PM
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/*
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.5.2
+*/
+body {font:13px/1.231 arial,helvetica,clean,sans-serif;font-size:small;font:x-small;}
+table {font-size:inherit;font:100%;}
+pre,code,kbd,samp,tt
+{
+        font-family:monospace;font-size:108%;line-height:100%;
+    }

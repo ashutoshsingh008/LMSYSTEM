@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<!--hibernate-configuration>
+    <session-factory>
+        <mapping class="com.lms.model.Country" />
+        <mapping class="com.lms.model.Category" />
+        <mapping class="com.lms.model.State" />
+        <mapping class="com.lms.model.Publisher" />
+        <mapping class="com.lms.model.User" />
+        <mapping class="com.lms.model.Author" />
+        <mapping class="com.lms.model.Book" />
+        <mapping class="com.lms.model.Transaction" />
+        <mapping class="com.lms.model.PopularSearch" />
+        <mapping class="com.lms.model.ManageClass" />
+        <mapping class="com.lms.model.ManageSection" />
+        <mapping class="com.lms.model.ClassSectionMap" />
+        <mapping class="com.lms.model.ItemCat" />
+        <mapping class="com.lms.model.ItemSubCat" />
+        <mapping class="com.lms.model.ItemCatSubCatMap" />
+        <mapping class="com.lms.model.ManageHostel" />
+        <mapping class="com.lms.model.ManagerRoom" />
+        <mapping class="com.lms.model.ManageBed" />
+        <mapping class="com.lms.model.StudentRoomMap" />
+        
+        
+      </session-factory>
+</hibernate-configuration-->
